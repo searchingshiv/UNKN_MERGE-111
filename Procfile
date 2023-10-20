@@ -1,1 +1,1 @@
-web: bash start.sh -p $PORT
+web: /bin/sh -c bash\ start.sh
